@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "data":{
+            "name":"John",
+            "position":"Tech Lead",
+            "work":"613-234-5463",
+            "personal":"613-345-2343",
+            "email":"john@gmail.com"
+        }
+    },
+    {
+        "id":2,
+        "data":{
+            "name":"Bob",
+            "position":"Tech Support",
+            "work":"613-456-4354",
+            "personal":"613-543-7645",
+            "email":"bob@gmail.com"
+        }
+		},
+		{
+        "id":3,
+        "data":{
+            "name":"Kevin mars",
+            "position":"Project Manager",
+            "work":"613-111-1111",
+            "personal":"613-222-2222",
+            "email":"kevin@gmail.com"
+        }
+		},
+		{
+        "id":4,
+        "data":{
+            "name":"John Wayne",
+            "position":"Cloud Team",
+            "work":"613-333-3333",
+            "personal":"613-444-444",
+            "email":"wayne@gmail.com"
+        }
+    },
+    {
+        "id":5,
+        "data":{
+            "name":"Tim Raizene",
+            "position":"Cloud Team",
+            "work":"343-333-3333",
+            "personal":"343-444-444",
+            "email":"tim@gmail.com"
+        }
+    },
+     {
+        "id":6,
+        "data":{
+            "name":"Jili Zhang",
+            "position":"Cloud Team",
+            "work":"647-777-3333",
+            "personal":"647-777-444",
+            "email":"jili@gmail.com"
+        }
+    },
+    {
+        "id":7,
+        "data":{
+            "name":"Daren Wong",
+            "position":"Tech Support",
+            "work":"613-555-3253",
+            "personal":"613-546-1244",
+            "email":"daren@gmail.com"
+        }
+    }
+]
